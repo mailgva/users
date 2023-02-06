@@ -1,4 +1,4 @@
-# Test task Users
+# Test task for ProxyBand
 
 Розробити API на Java за допомогою фреймворку Spring Boot (на https://start.spring.io/ можна отримати вже готовий шаблон).
 
